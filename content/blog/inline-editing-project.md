@@ -3,7 +3,6 @@ title: Inline Editing Revamped
 date: '2020-06-29T11:28:19-03:00'
 author: Kendall Strautman
 ---
-
 6 weeks ago, we embarked on a dedicated project with the goal of improving [Inline Editing](https://tinacms.org/docs/inline-editing). We believe that **this way of creating content is the future**, and we want to be a driver in actualizing that future.
 
 <iframe width="100%" height="398" src="https://www.youtube.com/embed/4qGz0cP_DSA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -24,13 +23,13 @@ _Before_
 ![block controls after](/img/inline-blocks/blocks-controls-redo.png)
 _After_
 
-### Controls UI
+### ssssss Controls UI
 
 With the inline editing controls, our instinct sought to tone down visual weight and improve functional clarity. This materialized by unifying the controls into a single panel, neutralizing the color palette, updating icons, and an incorporating an elegant drop-shadow.
 
 The 'Add Block' interface shifted as well. Given the importance of this action, we opted to isolate it from the other controls and simplify the label into a 'plus' icon. Editors can now add blocks before or after their siblings and set the direction on a horizontal or vertical axis.
 
-## UI Customization
+## dddddddUI Customization
 
 We wanted to not only clean up the visual aesthetic of the focus ring, but also to surface more customization opportunities for the developer.
 
