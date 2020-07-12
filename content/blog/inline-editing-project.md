@@ -23,13 +23,13 @@ _Before_
 ![block controls after](/img/inline-blocks/blocks-controls-redo.png)
 _After_
 
-### ssssss Controls UI
+### Controls UI
 
 With the inline editing controls, our instinct sought to tone down visual weight and improve functional clarity. This materialized by unifying the controls into a single panel, neutralizing the color palette, updating icons, and an incorporating an elegant drop-shadow.
 
 The 'Add Block' interface shifted as well. Given the importance of this action, we opted to isolate it from the other controls and simplify the label into a 'plus' icon. Editors can now add blocks before or after their siblings and set the direction on a horizontal or vertical axis.
 
-## dddddddUI Customization
+## UI Customization
 
 We wanted to not only clean up the visual aesthetic of the focus ring, but also to surface more customization opportunities for the developer.
 
